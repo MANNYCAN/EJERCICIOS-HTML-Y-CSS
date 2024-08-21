@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(213, 231, 238);
+}
+h1{
+    font-family: "Lilita One", sans-serif;
+    text-align: center;
+}
+.cointainer-image{
+    width: 150px;
+    border-radius: 25px;
+    margin: 0% 50% 0% 35%;
+
+}
+
+p{
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 0px 20px 20px 0px;
+    margin: 5px;
+}
+
+ol{
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 0px 20px 20px 0px;
+    margin: 5px;
+}
+
+.form-format{
+    border: 3px solid rgb(35, 117, 181);
+    margin: 5px 0px 5px 0px;
+
+}

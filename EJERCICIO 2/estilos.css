@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://st3.depositphotos.com/15827116/17982/i/450/depositphotos_179825974-stock-photo-abstract-pastel-colors-geometrical-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: "Lora", serif;
+    text-align: center;
+    border: 5px dotted rgb(104, 104, 204);
+}
+h2{
+    font-family: "Lora", serif;
+    text-align: left;
+}
+p{
+    text-align: justify;
+}
+.bold{
+    font-weight: bold;
+}
+
+.italics{
+    font-style: italic;
